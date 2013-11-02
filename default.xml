@@ -365,6 +365,7 @@
   <project path="packages/apps/Bluetooth" name="J-Team/android_packages_apps_Bluetooth" remote="github" revision="jb-mr2" />
   <project path="system/extras" name="J-Team/platform_system_extras" remote="github" revision="jb-mr2" groups="pdk" />
   <project path="external/busybox" name="J-Team/android_external_busybox" remote="github" revision="jb-mr2" />
+  <project path="hardware/u8500" name="J-Team/platform_hardware_u8500" remote="github" revision="jb-mr2" />
   
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" />
 </manifest>
