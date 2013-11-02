@@ -268,12 +268,12 @@
   <project path="frameworks/webview" name="platform/frameworks/webview" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
   <project path="hardware/akm" name="platform/hardware/akm" />
-  <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" />
-  <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" />
+  <project path="hardware/broadcom/libbt" name="SlimRoms/hardware_broadcom_libbt" remote="github" revision="kk4.4" />
+  <project path="hardware/broadcom/wlan" name="SlimRoms/hardware_broadcom_wlan" remote="github" revision="kk4.4" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" />
+  <project path="hardware/libhardware" name="SlimRoms/hardware_libhardware" remote="github" revision="kk4.4" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" />
-  <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" />
+  <project path="hardware/ril" name="SlimRoms/hardware_ril" remote="github" revision="kk4.4" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
