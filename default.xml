@@ -403,9 +403,9 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   
-  <!--<project path="device/samsung/janice" name="J-Team/android_device_samsung_janice" remote="github" revision="kitkat" />
-  <project path="device/samsung/u8500-common" name="J-Team/platform_device_samsung_u8500-common" remote="github" revision="kitkat" />-->
+  <project path="device/samsung/janice" name="J-Team/android_device_samsung_janice" remote="github" revision="kitkat" />
+  <project path="device/samsung/u8500-common" name="J-Team/platform_device_samsung_u8500-common" remote="github" revision="kitkat" />
   <project path="kernel/samsung/u8500" name="J-Team/platform_kernel_samsung_u8500" remote="github" revision="3.0.31" />
-  <!--<project path="vendor/samsung/u8500-common" name="J-Team/platform_vendor_samsung_u8500-common" remote="github" revision="kitkat" />
-  <project path="hardware/u8500" name="J-Team/platform_hardware_u8500" remote="github" revision="kitkat" />-->
+  <project path="vendor/samsung/u8500-common" name="J-Team/platform_vendor_samsung_u8500-common" remote="github" revision="kitkat" />
+  <project path="hardware/u8500" name="J-Team/platform_hardware_u8500" remote="github" revision="kitkat" />
 </manifest>
