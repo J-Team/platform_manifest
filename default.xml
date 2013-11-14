@@ -16,8 +16,7 @@
            remote="aosp"
            sync-j="4" />
            
-  <!--<project path="build" name="J-Team/platform_build" remote="github" revision="kitkat" groups="pdk" >-->
-  <project path="build" name="CyanogenMod/android_build" remote="github" revision="cm-11.0" >
+  <project path="build" name="J-Team/platform_build" remote="github" revision="kitkat" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <!--<copyfile src="build.sh" dest="build.sh" />-->
   </project>
