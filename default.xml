@@ -354,7 +354,7 @@
   <project path="kernel/samsung/u8500" name="J-Team/platform_kernel_samsung_u8500" remote="github" revision="jb" />
   <project path="vendor/samsung/u8500-common" name="J-Team/platform_vendor_samsung_u8500-common" remote="github" revision="jb-mr2" />
   <project path="external/bluetooth/bluedroid" name="J-Team/android_external_bluetooth_bluedroid" remote="github" revision="jb-mr2" />
-  <project path="frameworks/base" name="J-Team/android_frameworks_base" remote="github" revision="jb-mr2" />
+  <project path="frameworks/base" name="Alberto97/android_frameworks_base" remote="github" revision="jb-mr2" />
   <project path="frameworks/native" name="J-Team/platform_frameworks_native" remote="github" revision="jb-mr2" />
   <project path="frameworks/opt/telephony" name="J-Team/android_frameworks_opt_telephony" remote="github" revision="jb-mr2" />
   <project path="packages/apps/Bluetooth" name="J-Team/android_packages_apps_Bluetooth" remote="github" revision="jb-mr2" />
