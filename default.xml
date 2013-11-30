@@ -245,7 +245,7 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" revision="cm-11.0" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" revision="cm-11.0" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="AOSP-S4-KK/platform_frameworks_av" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="frameworks/av" name="TeamCanjica/android_frameworks_av" groups="pdk" remote="github" revision="cm-11.0" />
   <project path="frameworks/base" name="J-Team/platform_frameworks_base" remote="github" revision="kitkat" /> 
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
