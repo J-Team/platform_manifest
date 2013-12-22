@@ -319,7 +319,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
-  <project path="system/bluetooth" name="J-Team/platform_system_bluetooth" remote="github" revision="jb-mr2" />
+  <project path="system/bluetooth" name="AOSP-S4/android_system_bluetooth" remote="github" revision="jb-4.3" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
