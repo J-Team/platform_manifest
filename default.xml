@@ -274,7 +274,7 @@
   <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" groups="pdk" remote="github" revision="cm-11.0" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" groups="broadcom_wlan" remote="github" revision="cm-11.0" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" groups="invensense" remote="github" revision="cm-11.0" />
-  <project path="hardware/libhardware" name="AOSP-S4-KK/platform_hardware_libhardware" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="hardware/libhardware" name="J-Team/platform_hardware_libhardware" groups="pdk" remote="github" revision="kitkat" />
   <project path="hardware/libhardware_legacy" name="AOSP-S4-KK/platform_hardware_libhardware_legacy" groups="pdk"  remote="github" revision="kk-4.4" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" groups="pdk"  remote="github" revision="cm-11.0" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
@@ -302,7 +302,7 @@
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/Launcher3" name="J-Team/platform_packages_apps_Launcher3" remote="github" revision="kitkat" />
+  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
   <project path="packages/apps/Mms" name="platform/packages/apps/Mms" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
