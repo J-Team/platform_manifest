@@ -399,7 +399,7 @@
   
   <project path="device/samsung/janice" name="J-Team/platform_device_samsung_janice" remote="github" revision="kitkat" />
   <project path="device/samsung/u8500-common" name="J-Team/platform_device_samsung_u8500-common" remote="github" revision="kitkat" />
-  <project path="kernel/samsung/u8500" name="J-Team/platform_kernel_samsung_u8500" remote="github" revision="3.0.31" />
+  <project path="kernel/samsung/u8500" name="J-Team/platform_kernel_samsung_u8500" remote="github" revision="3.0.101" />
   <project path="vendor/samsung/u8500-common" name="J-Team/platform_vendor_samsung_u8500-common" remote="github" revision="kitkat" />
   <project path="hardware/u8500" name="TeamCanjica/android_hardware_u8500" remote="github" revision="cm-11.0" />
 </manifest>
