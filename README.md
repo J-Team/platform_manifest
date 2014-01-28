@@ -1,4 +1,5 @@
-The Android Open Source Project Jelly Bean 4.3
+The Android Open Source Project 
+Jelly Bean 4.3
 ===========
 
 To initialize your local repository using the AOSP trees, use a command like this:
