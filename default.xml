@@ -55,7 +55,6 @@
   <project path="external/apache-qp" name="platform/external/apache-qp" />
   <project path="external/apache-xml" name="platform/external/apache-xml" />
   <project path="external/arduino" name="platform/external/arduino" />
-  <project path="external/ASF_Library" name="J-Team/platform_external_ASF_Library" remote="github" revision="master" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" />
   <project path="external/blktrace" name="platform/external/blktrace" />
   <project path="external/bluetooth/bluedroid" name="J-Team/platform_external_bluetooth_bluedroid" remote="github" revision="kitkat" />
