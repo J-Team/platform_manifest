@@ -21,7 +21,7 @@
     <copyfile src="build.sh" dest="build.sh" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
-  <project path="art" name="CyanogenMod/android_art" remote="github" revision="cm-11.0" />
+  <project path="art" name="J-Team/platform_art" remote="github" revision="kitkat" />
   <project path="bionic" name="J-Team/platform_bionic" remote="github" revision="kitkat" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="github" revision="cm-11.0" groups="pdk" />
