@@ -18,7 +18,8 @@
            
   <project path="build" name="J-Team/platform_build" remote="github" revision="kitkat" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
-    <copyfile src="build.sh" dest="build.sh" />
+    <copyfile src="janice.sh" dest="janice.sh" />
+    <copyfile src="codina.sh" dest="codina.sh" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="art" name="J-Team/platform_art" remote="github" revision="kitkat" />
