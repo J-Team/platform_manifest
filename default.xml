@@ -385,7 +385,7 @@
   <project path="system/media" name="CyanogenMod/android_system_media" groups="pdk" remote="github" revision="cm-11.0" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
-  <project path="system/vold" name="J-Team/platform_system_vold" groups="pdk" remote="github" revision="kitkat" />
+  <project path="system/vold" name="AOSP-S4-KK/platform_system_vold" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" />
   <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" />
   <project path="tools/base" name="platform/tools/base" groups="notdefault,tools" />
