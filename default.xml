@@ -380,7 +380,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
-  <project path="system/core" name="AOSP-S4-KK/platform_system_core" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="system/core" name="J-Team/platform_system_core" groups="pdk" remote="github" revision="kitkat" />
   <project path="system/extras" name="AOSP-S4-KK/platform_system_extras" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="system/media" name="CyanogenMod/android_system_media" groups="pdk" remote="github" revision="cm-11.0" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
