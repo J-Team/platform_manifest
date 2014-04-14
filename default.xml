@@ -405,5 +405,6 @@
   <project path="kernel/samsung/u8500" name="J-Team/android_kernel_samsung_u8500" remote="github" revision="3.0.31" />
   <project path="kernel/samsung/codina" name="J-Team/platform_kernel_samsung_codina" remote="github" revision="3.0.31" />
   <project path="vendor/samsung/u8500-common" name="J-Team/platform_vendor_samsung_u8500-common" remote="github" revision="kitkat" />
+  <project path="vendor/aosp" name="J-Team/platform_vendor_aosp" remote="github" revision="kitkat" />
   <project path="manifest" name="J-Team/platform_manifest" remote="github" revision="kitkat" />
 </manifest>
