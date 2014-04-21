@@ -397,6 +397,7 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   
+  <!-- STE Specific -->
   <project path="device/samsung/janice" name="J-Team/platform_device_samsung_janice" remote="github" revision="kitkat" />
   <project path="device/samsung/janicep" name="J-Team/platform_device_samsung_janicep" remote="github" revision="kitkat" />
   <project path="device/samsung/codina" name="J-Team/platform_device_samsung_codina" remote="github" revision="kitkat" />
@@ -407,4 +408,6 @@
   <project path="vendor/samsung/u8500-common" name="J-Team/platform_vendor_samsung_u8500-common" remote="github" revision="kitkat" />
   <project path="vendor/aosp" name="J-Team/platform_vendor_aosp" remote="github" revision="kitkat" />
   <project path="manifest" name="J-Team/platform_manifest" remote="github" revision="kitkat" />
+  <!-- Linaro Toolchain -->
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.6" name="platform_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.6.2" remote="github" revision="master" />
 </manifest>
