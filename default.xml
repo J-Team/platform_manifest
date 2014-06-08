@@ -243,7 +243,7 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" revision="cm-11.0" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="J-Team/platform_frameworks_av" groups="pdk" remote="github" revision="kitkat" />
-  <project path="frameworks/base" name="J-Team/platform_frameworks_base" remote="github" revision="kitkat" /> 
+  <project path="frameworks/base" name="J-Team/platform_frameworks_base" remote="github" revision="kitkat2" /> 
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
