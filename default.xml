@@ -349,7 +349,7 @@
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" />
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" />
-  <project path="patches" name="J-Team/STE_patches" remote="github" revision="aosp" >
+  <project path="patches" name="J-Team/STE_patches" remote="github" revision="kitkat-mr2" >
   <copyfile src="patch.sh" dest="patch.sh" />
   </project>
   <project path="pdk" name="platform/pdk" groups="pdk" />
