@@ -12,11 +12,11 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
-  <default revision="refs/tags/android-4.4.4_r2"
+  <default revision="refs/tags/android-4.4.4_r2.0.1"
            remote="aosp"
            sync-j="4" />
            
-  <project path="build" name="J-Team/platform_build" remote="github" revision="kitkat-mr2" groups="pdk" >
+  <project path="build" name="J-Team/platform_build" remote="github" revision="kitkat-mr2.2" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <copyfile src="janice.sh" dest="janice.sh" />
     <copyfile src="codina.sh" dest="codina.sh" />
@@ -246,7 +246,7 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" revision="cm-11.0" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="J-Team/platform_frameworks_av" groups="pdk" remote="github" revision="kitkat-mr2" />
-  <project path="frameworks/base" name="J-Team/platform_frameworks_base" remote="github" revision="kitkat-mr2" /> 
+  <project path="frameworks/base" name="J-Team/platform_frameworks_base" remote="github" revision="kitkat-mr2.2" /> 
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
